@@ -1,0 +1,37 @@
+.header h1 {
+    display: inline-block;
+}
+
+.header nav#menu {
+    float: right;
+}
+
+.header nav#menu ul {
+    padding-inline-start: 0;
+}
+
+.header nav#menu ul li {
+    padding: 1em 1.5em;
+    display: inline-block;
+}
+
+section.spotlight img.image {
+    float: left;
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    margin-right: 2em;
+}
+
+section.spotlight div.content {
+    display: inline-block;
+}
+
+ul.contact {
+    padding-inline-start: 0;
+    list-style-type: none;
+}
+
+a[href^='mailto\:']::before {
+    content: none;
+}
