@@ -1,0 +1,13 @@
+title: このまにあ有志
+baseurl: "/"
+url: "https://konomania.github.io"
+
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+sass:
+  style: compressed

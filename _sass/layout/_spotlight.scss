@@ -1,0 +1,30 @@
+.spotlight {
+    overflow: auto;
+    padding: 0 2em;
+    width: 100%;
+    display: block;
+    padding: 0 2em;
+
+    @media screen and (min-width: 980px) {
+        margin: 0 auto;
+        padding: 0;
+        width: 55em;
+    }
+
+    img.image {
+        float: left;
+        border-radius: 100%;
+        height: 200px;
+        width: 200px;
+        margin-right: 2em;
+    }
+
+    div.content {
+        display: inline-block;
+    }
+
+    .contact {
+        padding-inline-start: 0;
+        list-style-type: none;
+    }
+}

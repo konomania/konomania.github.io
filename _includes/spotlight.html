@@ -1,0 +1,7 @@
+<section class="spotlight">
+    <h1>{{ include.content.title }}</h1>
+    {% if include.content.image_path %}<img class="image" src="{{ include.content.image_path }}" alt="{{ include.content.image_alt }}" />{% endif %}
+    <div class="content">
+        <p>{{ include.content.description }}</p>
+    </div>
+</section>

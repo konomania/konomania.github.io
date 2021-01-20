@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Noto Sans JP', Helvetica, sans-serif;
+    line-height: 1.4;
+    color: #363636;
+    background: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: #0076d1;
+}
