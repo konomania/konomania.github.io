@@ -14,17 +14,16 @@
     img.image {
         float: left;
         border-radius: 100%;
-        height: 200px;
-        width: 200px;
+        height: 150px;
+        width: 150px;
         margin-right: 2em;
     }
 
-    div.content {
+    .content {
         display: inline-block;
-    }
 
-    .contact {
-        padding-inline-start: 0;
-        list-style-type: none;
+        :first-child {
+            margin-top: 0;
+        }
     }
 }
