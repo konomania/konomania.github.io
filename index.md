@@ -1,34 +1,35 @@
 ---
 layout: index
-spotlights:
-  - title: 企画の趣旨
-    description: 企画説明（ARについてなど）
-  - title: 最後に
-    description: 有志の企画です。お問い合わせ先は
 ---
 
 <section class="spotlight" markdown="1">
-# 企画の趣旨
 
-企画説明（ARについてなど）
-{:.content}
+アニソンシンガーとして活躍する鈴木このみファン有志によって運用されているサイトです。
+
 </section>
 
 <section class="spotlight" markdown="1">
-# ANIMAX MUSIX 20201 ONLINE
+# ANIMAX MUSIX 2021 ONLINE<br>ARイラスト企画
 
+<div class="wrapper" markdown="1">
 ![イラスト](assets/images/animax-illust.jpg){:.image}
 
   <div class="content" markdown="1">
-## [準備](/preparation)
-## [使い方](/howto)
+## [準備／閲覧方法](/howto)
+## [ARイラストQRコード](/qrcode)
 ## [コンセプト](/concept)
   </div>
+</div>
 </section>
 
 <section class="spotlight" markdown="1">
-# 最後に
 
-有志の企画です。お問い合わせ先は
+### ※注意事項※
+
+ご本人様、KADOKAWA様、MAGES.様、Digital Double様、イベント主催者様とは一切関係ありません。  
+くれぐれもそちらへ問い合わせ等はご遠慮くださいませ。
+
+問い合わせ先　[konomaniayushi@gmail.com](mailto:konomaniayushi@gmail.com)
+
 {:.content}
 </section>

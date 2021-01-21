@@ -2,10 +2,19 @@
   <div class="inner">
     <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
     <nav class="menu">
-      <a href="#menu"><i class="fas fa-bars"></i></a>
-      <ul class="links">{% assign pages = site.pages | sort: 'sort_order' %}
-        {% for page in pages %}<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>{% endfor %}
-      </ul>
+      <a href="#menu" id="nav_menu_toggle" role="button" aria-expanded="false" aria-controls="menu">
+        <div class="icons">
+          <i class="fas fa-bars"></i>
+          <i class="fas fa-times"></i>
+        </div>
+      </a>
+      <div class="collapse" id="nav_menu">
+        <ul class="links">{% assign pages = site.pages | sort: 'sort_order' %}
+          {% for node in pages %}
+          <li{% if page.url == node.url %} class="active"{% endif %}><a href="{{ node.url | relative_url }}">{{ node.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
     </nav>
   </div>
 </header>

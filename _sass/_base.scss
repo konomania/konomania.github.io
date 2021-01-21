@@ -12,6 +12,13 @@ body {
     line-height: 1.4;
     color: #363636;
     background: #ffffff;
+
+    &.loading {
+        *, *:before, *:after {
+            animation: none !important;
+            transition: none !important;
+        }
+    }
 }
 
 a {
