@@ -9,15 +9,15 @@ layout: index
 </section>
 
 <section class="spotlight" markdown="1">
-## ANIMAX MUSIX 2021 ONLINE<br>ARイラスト企画
+## ANIMAX MUSIX 2021 ONLINE<br>ARイラスト企画  
 
 <div class="wrapper" markdown="1">
 ![イラスト](assets/images/animax-illust.jpg){:.image}
 
   <div class="content" markdown="1">
-### [準備／閲覧方法](/howto)
-### [QRコード](/qrcode)
-### [イラスト](/concept)
+### [準備／閲覧方法](/howto)  
+### [QRコード](/qrcode)  
+### [イラスト](/concept)  
   </div>
 </div>
 </section>
