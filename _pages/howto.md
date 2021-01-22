@@ -11,7 +11,7 @@ sort_order: 1
 
 ※①、②ともにネット環境が必要です。
 
-## 閲覧方法
+## 閲覧
 
 1. 以下URLを①で開いてカメラを許可。  
 [https://konomania.github.io/ANIMAXMUSIX2021-AR](https://konomania.github.io/ANIMAXMUSIX2021-AR/)  
