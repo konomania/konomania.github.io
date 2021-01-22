@@ -16,8 +16,8 @@ layout: index
 
   <div class="content" markdown="1">
 ## [準備／閲覧方法](/howto)
-## [ARイラストQRコード](/qrcode)
-## [コンセプト](/concept)
+## [QRコード](/qrcode)
+## [イラスト](/concept)
   </div>
 </div>
 </section>
