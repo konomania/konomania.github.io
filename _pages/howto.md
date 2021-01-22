@@ -1,3 +1,10 @@
+---
+layout: page
+title: 準備／閲覧
+sort_order: 1
+---
+# {{ page.title }}
+
 ## 準備
 
 ①スマホ/iPad（カメラ機能付き）  
