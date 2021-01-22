@@ -5,14 +5,14 @@ sort_order: 1
 ---
 # {{ page.title }}
 
-## ●準備
+## 準備
 
-1. スマホ/iPad（カメラ機能付き）
-2. スマホ/iPad/PC etc（AR用QRコード）
+①スマホ/iPad（カメラ機能付き）
+②スマホ/iPad/PC etc（AR用QRコード）
 
-※①、②ともにネット環境が必要です
+※①、②ともにネット環境が必要です。
 
-## ●閲覧方法
+## 閲覧方法
 
 1. 以下URLを①で開いてカメラを許可。  
 [https://konomania.github.io/ANIMAXMUSIX2021-AR](https://konomania.github.io/ANIMAXMUSIX2021-AR/)  
@@ -21,4 +21,4 @@ sort_order: 1
 2. ②でAR用QRコードを開く。  
 [QRコード](qrcode)
 
-3. ①の焦点を②のAR用QRコードに向ける。
+3. ①を②のAR用QRコードにかざす。
