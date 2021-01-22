@@ -9,15 +9,15 @@ layout: index
 </section>
 
 <section class="spotlight" markdown="1">
-# ANIMAX MUSIX 2021 ONLINE<br>ARイラスト企画
+## ANIMAX MUSIX 2021 ONLINE<br>ARイラスト企画
 
 <div class="wrapper" markdown="1">
 ![イラスト](assets/images/animax-illust.jpg){:.image}
 
   <div class="content" markdown="1">
-## [準備／閲覧方法](/howto)
-## [QRコード](/qrcode)
-## [イラスト](/concept)
+### [準備／閲覧方法](/howto)
+### [QRコード](/qrcode)
+### [イラスト](/concept)
   </div>
 </div>
 </section>
@@ -29,7 +29,8 @@ layout: index
 ご本人様、KADOKAWA様、MAGES.様、Digital Double様、イベント主催者様とは一切関係ありません。  
 くれぐれもそちらへ問い合わせ等はご遠慮くださいませ。
 
-問い合わせ先　[konomaniayushi@gmail.com](mailto:konomaniayushi@gmail.com)
+問い合わせ先  
+[konomaniayushi@gmail.com](mailto:konomaniayushi@gmail.com)
 
 {:.content}
 </section>
