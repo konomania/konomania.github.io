@@ -3,7 +3,7 @@ layout: page
 title: コンセプト
 sort_order: 3
 ---
-# ANIMAX MUSIX 2021 ONLINE<br>ARイラスト企画について
+# 企画への想い
 
 ## まず始めに
 
