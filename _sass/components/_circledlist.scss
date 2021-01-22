@@ -1,0 +1,71 @@
+ol.circled {
+    position: relative;
+    list-style: decimal url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7);
+    overflow-wrap: break-word;
+}
+
+.circled li:nth-child(1n):before {
+    position: absolute;
+    left: 0.5em;
+}
+
+.circled li:nth-child(1):before {
+    content: "\2460";
+}
+.circled li:nth-child(2):before {
+    content: "\2461";
+}
+.circled li:nth-child(3):before {
+    content: "\2462";
+}
+.circled li:nth-child(4):before {
+    content: "\2463";
+}
+.circled li:nth-child(5):before {
+    content: "\2464";
+}
+.circled li:nth-child(6):before {
+    content: "\2465";
+}
+.circled li:nth-child(7):before {
+    content: "\2466";
+}
+.circled li:nth-child(8):before {
+    content: "\2467";
+}
+.circled li:nth-child(9):before {
+    content: "\2468";
+}
+.circled li:nth-child(10):before {
+    content: "\2469";
+}
+.circled li:nth-child(11):before {
+    content: "\246A";
+}
+.circled li:nth-child(12):before {
+    content: "\246B";
+}
+.circled li:nth-child(13):before {
+    content: "\246C";
+}
+.circled li:nth-child(14):before {
+    content: "\246D";
+}
+.circled li:nth-child(15):before {
+    content: "\246E";
+}
+.circled li:nth-child(16):before {
+    content: "\246F";
+}
+.circled li:nth-child(17):before {
+    content: "\2470";
+}
+.circled li:nth-child(18):before {
+    content: "\2471";
+}
+.circled li:nth-child(19):before {
+    content: "\2472";
+}
+.circled li:nth-child(20):before {
+    content: "\2473";
+}
