@@ -23,6 +23,6 @@ sort_order: 1
 [QRコード](qrcode)
 
 3. ①を②のAR用QRコードにかざす。
-{:.circled}
 
-![閲覧](assets/images/howtosee.jpg)
+
+![閲覧](assets/images/howtosee.jpg){:.circled}
