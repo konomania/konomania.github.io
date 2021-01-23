@@ -9,7 +9,7 @@ layout: index
 </section>
 
 <section class="spotlight" markdown="1">
-## ANIMAX MUSIX 2021 ONLINE ARイラスト企画
+## ANIMAX MUSIX 2021 ARイラスト企画
 
 ARイラストを見たい方は、「準備／閲覧」を選択してください。
 
