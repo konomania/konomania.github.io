@@ -16,7 +16,7 @@ sort_order: 1
 1. 以下のURLを①で開き、カメラを許可する。  
 [https://konomania.github.io/ANIMAXMUSIX2021-AR](https://konomania.github.io/ANIMAXMUSIX2021-AR/)  
 
-2. ②でAR用のQRコードを開く。  
+2. 以下のAR用のQRコードを②で開く。  
 [QRコード](qrcode)
 
 3. ①で②をかざす。
