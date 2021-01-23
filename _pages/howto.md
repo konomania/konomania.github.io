@@ -22,5 +22,4 @@ sort_order: 1
 3. ①で②をかざす。
 
 
-[閲覧](assets/images/howtosee.png)
-{:.circled}
+![閲覧](assets/images/howtosee.png)
