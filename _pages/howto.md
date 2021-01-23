@@ -8,7 +8,6 @@ sort_order: 1
 
 ①スマホ/iPad（カメラ機能付き）  
 ②スマホ/iPad/PC etc
-{:.circled}
 
 ※①、②ともにネット環境が必要
 
@@ -23,4 +22,5 @@ sort_order: 1
 3. ①で②をかざす。
 
 
-(assets/images/howtosee.png)
+[閲覧](assets/images/howtosee.png)
+{:.circled}
