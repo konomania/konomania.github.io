@@ -24,3 +24,5 @@ sort_order: 1
 
 3. ①を②のAR用QRコードにかざす。
 {:.circled}
+
+![閲覧](assets/images/howtosee.jpg)
