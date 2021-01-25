@@ -6,8 +6,9 @@ sort_order: 1
 
 ## 準備
 
-①スマホ/iPad（カメラ機能付き）  
-②スマホ/iPad/PC etc
+1. スマホ/iPad（カメラ機能付き）
+2. スマホ/iPad/PC etc
+{:.circled}
 
 ※①、②ともにネット環境が必要
 
@@ -20,6 +21,6 @@ sort_order: 1
 [QRコード](qrcode)
 
 3. ①で②をかざす。
-
+{:.circled}
 
 ![閲覧](assets/images/howtosee.png)
