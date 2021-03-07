@@ -1,6 +1,6 @@
 title: このまにあ ANIMAX MUSIX 2021 ARイラスト企画
 baseurl: ""
-url: "https://konomania.github.io/dev/"
+url: "https://konomania.github.io/dev"
 
 markdown: kramdown
 
@@ -8,6 +8,12 @@ collections:
   pages:
     output: true
     permalink: /:path
+
+header:
+  - name: ANIMAX MUSIX 2021
+    url: animax2021
+  - name: 鈴フェス Vol.1
+    url: suzufesv1
 
 sass:
   style: compressed

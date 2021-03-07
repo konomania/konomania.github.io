@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 趣旨
-sort_order: 3
 ---
 # 趣旨
 

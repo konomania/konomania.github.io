@@ -4,23 +4,21 @@ layout: index
 
 <section class="spotlight" markdown="1">
 アニソンシンガーとして活躍する鈴木このみファン有志によって運用されているサイトです。
-
 </section>
 
 <section class="spotlight" markdown="1">
-## 鈴フェスVol.1 ARイラスト企画
+## 鈴フェス Vol.1 ARイラスト企画
 
 <div class="wrapper" markdown="1">
 ![イラスト]({{ 'assets/images/suzufesicon.jpg' | absolute_url }}){:.image}
 
-  <div class="content" markdown="1">
-### [準備／閲覧](/howto)
-### [QRコード](/qrcode)
+<div class="content" markdown="1">
+### [準備／閲覧](/suzufesv1/howto)
+### [QRコード](/suzufesv1/qrcode)
 </div>
+
 </div>
 </section>
-
-
 
 <section class="spotlight" markdown="1">
 ## ANIMAX MUSIX 2021 ARイラスト企画
@@ -29,15 +27,15 @@ layout: index
 ![イラスト]({{ 'assets/images/animax-illust.jpg' | absolute_url }}){:.image}
 
 <div class="content" markdown="1">
-### [準備／閲覧](/howto)
-### [QRコード](/qrcode)
-### [趣旨](/concept)
+### [準備／閲覧](/animax2021/howto)
+### [QRコード](/animax2021/qrcode)
+### [趣旨](/animax2021/concept)
 </div>
+
 </div>
 </section>
 
 <section class="spotlight" markdown="1">
-
 ### ※注意事項※
 
 ご本人様、KADOKAWA様、MAGES.様、Digital Double様、イベント主催者様とは一切関係ありません。  

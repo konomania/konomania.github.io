@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 準備／閲覧
-sort_order: 1
 ---
 
 ## 準備
@@ -15,12 +14,12 @@ sort_order: 1
 ## 閲覧
 
 1. 以下のURLを①で開き、カメラを許可する。  
-[https://konomania.github.io/ANIMAXMUSIX2021-AR](https://konomania.github.io/ANIMAXMUSIX2021-AR/)  
+[https://konomania.github.io/SuzuFesV1/](https://konomania.github.io/SuzuFesV1/)  
 
 2. 以下のAR用QRコードを②で開く。  
-[QRコード](qrcode)
+[QRコード]({{ '/suzufesv1/qrcode' | absolute_url }})
 
 3. ①で②をかざす。
 {:.circled}
 
-![閲覧](assets/images/howtosee.png)
+![閲覧]({{ 'assets/images/howtosee.png' | absolute_url }})
