@@ -8,7 +8,7 @@ layout: index
 </section>
 
 <section class="spotlight" markdown="1">
-## 鈴フェスVol.1 ARイラスト企画
+## 鈴フェスVol.1 ARイラスト企画　“NEW”
 
 <div class="wrapper" markdown="1">
 ![イラスト](assets/images/animax-illust.jpg){:.image}
