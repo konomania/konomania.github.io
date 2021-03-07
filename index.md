@@ -13,8 +13,8 @@ layout: index
 ![イラスト]({{ 'assets/images/suzufesicon.jpg' | absolute_url }}){:.image}
 
 <div class="content" markdown="1">
-### [準備／閲覧](/suzufesv1/howto)
-### [QRコード](/suzufesv1/qrcode)
+### [準備／閲覧]({{ '/suzufesv1/howto' | absolute_url }})
+### [QRコード]({{ '/suzufesv1/qrcode' | absolute_url }})
 </div>
 
 </div>
@@ -27,9 +27,9 @@ layout: index
 ![イラスト]({{ 'assets/images/animax-illust.jpg' | absolute_url }}){:.image}
 
 <div class="content" markdown="1">
-### [準備／閲覧](/animax2021/howto)
-### [QRコード](/animax2021/qrcode)
-### [趣旨](/animax2021/concept)
+### [準備／閲覧]({{ '/animax2021/howto' | absolute_url }})
+### [QRコード]({{ '/animax2021/qrcode' | absolute_url }})
+### [趣旨]({{ '/animax2021/concept' | absolute_url }})
 </div>
 
 </div>

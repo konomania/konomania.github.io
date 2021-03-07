@@ -11,8 +11,8 @@
       <div class="collapse" id="nav_menu">
         <ul class="links">
           {% if page.layout != 'index' %}<li><a href="{{ site.baseurl }}/">トップ</a></li>{% endif %}
-          {% for project in site.projects %}
-          <li{% if page.url contains project.url %} class="active"{% endif %}><a href="{{ project.url | absolute_url }}/">{{ project.name }}</a></li>
+          {% for item in site.header %}
+          <li{% if page.url contains item.url %} class="active"{% endif %}><a href="{{ item.url | absolute_url }}/">{{ item.name }}</a></li>
           {% endfor %}
         </ul>
       </div>
