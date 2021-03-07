@@ -11,7 +11,7 @@ layout: index
 ## 鈴フェスVol.1 ARイラスト企画　“NEW”
 
 <div class="wrapper" markdown="1">
-![イラスト](assets/images/animax-illust.jpg){:.image}
+![イラスト](assets/images/suzufes_konomi.jpg){:.image}
 
   <div class="content" markdown="1">
 ### [準備／閲覧](/howto)
