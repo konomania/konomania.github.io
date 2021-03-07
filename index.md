@@ -11,7 +11,7 @@ layout: index
 ## 鈴フェスVol.1 ARイラスト企画
 
 <div class="wrapper" markdown="1">
-![イラスト](assets/images/suzufesicon.jpg){:.image}
+![イラスト]({{ 'assets/images/suzufesicon.jpg' | absolute_url }}){:.image}
 
   <div class="content" markdown="1">
 ### [準備／閲覧](/howto)
@@ -26,7 +26,7 @@ layout: index
 ## ANIMAX MUSIX 2021 ARイラスト企画
 
 <div class="wrapper" markdown="1">
-![イラスト](assets/images/animax-illust.jpg){:.image}
+![イラスト]({{ 'assets/images/animax-illust.jpg' | absolute_url }}){:.image}
 
 <div class="content" markdown="1">
 ### [準備／閲覧](/howto)
