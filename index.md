@@ -8,10 +8,10 @@ layout: index
 </section>
 
 <section class="spotlight" markdown="1">
-## 鈴フェスVol.1 ARイラスト企画　“NEW”
+## 鈴フェスVol.1 ARイラスト企画
 
 <div class="wrapper" markdown="1">
-![イラスト](assets/images/suzufes_konomi.jpg){:.image}
+![イラスト](assets/images/suzufes_konomi.png){:.image}
 
   <div class="content" markdown="1">
 ### [準備／閲覧](/howto)
