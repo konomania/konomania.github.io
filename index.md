@@ -16,7 +16,6 @@ layout: index
   <div class="content" markdown="1">
 ### [準備／閲覧](/howto)
 ### [QRコード](/qrcode)
-### [趣旨](/concept)
 </div>
 </div>
 </section>
