@@ -11,7 +11,7 @@ layout: index
 ## 鈴フェスVol.1 ARイラスト企画
 
 <div class="wrapper" markdown="1">
-![イラスト](assets/images/suzufes-konomi.png){:.image}
+![イラスト](assets/images/suzufesicon.jpg){:.image}
 
   <div class="content" markdown="1">
 ### [準備／閲覧](/howto)
