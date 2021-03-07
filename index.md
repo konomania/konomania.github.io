@@ -14,7 +14,7 @@ layout: index
 ![イラスト](assets/images/animax-illust.jpg){:.image}
 
   <div class="content" markdown="1">
-### [準備/閲覧](/howto)
+### [準備／閲覧](/howto)
 ### [QRコード](/qrcode)
 ### [趣旨](/concept)
 </div>
@@ -30,7 +30,7 @@ layout: index
 ![イラスト](assets/images/animax-illust.jpg){:.image}
 
 <div class="content" markdown="1">
-### [準備/閲覧](/howto)
+### [準備／閲覧](/howto)
 ### [QRコード](/qrcode)
 ### [趣旨](/concept)
 </div>
