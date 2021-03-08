@@ -30,5 +30,5 @@ function switchTab(tabId) {
     }
 }
 
-const tabContainers = document.getElementsByClassName('tab-container');
+const tabContainers = document.getElementsByClassName('tabbed-container');
 switchTab('all') // set default tab

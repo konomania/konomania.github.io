@@ -8,7 +8,7 @@ ARイラストを見たい方は、「準備／閲覧」を選択してくださ
 
 ※準備中
 
-<section class="tab-container">
+<section class="tabbed-container">
 <div class="tabs">
 <ul>
   <li class="tab-item" data-id="all"><a href="#" onclick="switchTab('all')">全員</a></li>
@@ -53,4 +53,4 @@ ARイラストを見たい方は、「準備／閲覧」を選択してくださ
 </div>
 </section>
 
-<script src="{{ 'assets/js/tabcontainer.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/tabbedcontainer.js' | relative_url }}"></script>
