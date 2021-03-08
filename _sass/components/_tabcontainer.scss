@@ -1,0 +1,25 @@
+section.tab-container {
+    div.tabs {
+        ul {
+            padding-inline-start: 0;
+
+            li.tab-item {
+                padding: 0 1em;
+                display: inline-block;
+                list-style: none;
+
+                &.active {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+
+    div.tab-content {
+        display: none;
+
+        &.active {
+            display: block;
+        }
+    }
+}
