@@ -23,32 +23,25 @@ ARイラストを見たい方は、「準備／閲覧」を選択してくださ
 
 <div class="tab-contents">
   <div id="all" class="tab-content" markdown="1">
-  all  
-  ![QRコード]({{ 'assets/images/pattern-baku.png' | absolute_url }}){:.qrcode}
+  ![QRコード]({{ 'assets/images/pattern-all.png' | absolute_url }}){:.qrcode}
   </div>
   <div id="asca" class="tab-content" markdown="1">
-  asca  
-  ![QRコード]({{ 'assets/images/pattern-baku.png' | absolute_url }}){:.qrcode}
+  ![QRコード]({{ 'assets/images/pattern-asca.png' | absolute_url }}){:.qrcode}
   </div>
   <div id="exina" class="tab-content" markdown="1">
-  exina  
-  ![QRコード]({{ 'assets/images/pattern-baku.png' | absolute_url }}){:.qrcode}
+  ![QRコード]({{ 'assets/images/pattern-exina.png' | absolute_url }}){:.qrcode}
   </div>
   <div id="konomi" class="tab-content" markdown="1">
-  konomi  
-  ![QRコード]({{ 'assets/images/pattern-baku.png' | absolute_url }}){:.qrcode}
+  ![QRコード]({{ 'assets/images/pattern-konomi.png' | absolute_url }}){:.qrcode}
   </div>
   <div id="asaka" class="tab-content" markdown="1">
-  asaka  
-  ![QRコード]({{ 'assets/images/pattern-baku.png' | absolute_url }}){:.qrcode}
+  ![QRコード]({{ 'assets/images/pattern-asaka.png' | absolute_url }}){:.qrcode}
   </div>
   <div id="mythroid" class="tab-content" markdown="1">
-  mythroid  
-  ![QRコード]({{ 'assets/images/pattern-baku.png' | absolute_url }}){:.qrcode}
+  ![QRコード]({{ 'assets/images/pattern-mythroid.png' | absolute_url }}){:.qrcode}
   </div>
   <div id="atsuko" class="tab-content" markdown="1">
-  atsuko  
-  ![QRコード]({{ 'assets/images/pattern-baku.png' | absolute_url }}){:.qrcode}
+  ![QRコード]({{ 'assets/images/pattern-atsuko.png' | absolute_url }}){:.qrcode}
   </div>
 </div>
 </section>

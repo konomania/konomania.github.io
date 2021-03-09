@@ -31,4 +31,8 @@ function switchTab(tabId) {
 }
 
 const tabContainers = document.getElementsByClassName('tabbed-container');
-switchTab('all') // set default tab
+
+window.addEventListener('load', () => {
+    
+    switchTab('all') // set default tab
+});
