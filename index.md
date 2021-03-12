@@ -13,7 +13,7 @@ layout: index
 <section class="spotlight" markdown="1">
 ### ※注意事項※
 
-ご本人様、KADOKAWA様、MAGES.様、Digital Double様、イベント主催者様とは一切関係ありません。  
+ご本人様、KADOKAWA様、MAGES.様、Digital Double様、イベント主催者様ならびにご出演者とは一切関係ありません。  
 くれぐれもそちらへ問い合わせ等はご遠慮くださいませ。
 
 問い合わせ先  
