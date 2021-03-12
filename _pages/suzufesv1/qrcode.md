@@ -12,9 +12,9 @@ ARイラストを見たい方は、こちらを押してください。「準備
 <div class="tabs">
 <ul>
   <li class="tab-item" data-id="all"><a href="#" onclick="switchTab('all')">全員</a></li>
+  <li class="tab-item" data-id="konomi"><a href="#" onclick="switchTab('konomi')">鈴木このみ</a></li>
   <li class="tab-item" data-id="asca"><a href="#" onclick="switchTab('asca')">ASCA</a></li>
   <li class="tab-item" data-id="exina"><a href="#" onclick="switchTab('exina')">EXiNA</a></li>
-  <li class="tab-item" data-id="konomi"><a href="#" onclick="switchTab('konomi')">鈴木このみ</a></li>
   <li class="tab-item" data-id="asaka"><a href="#" onclick="switchTab('asaka')">亜咲花</a></li>
   <li class="tab-item" data-id="mythroid"><a href="#" onclick="switchTab('mythroid')">MYTH&ROID</a></li>
   <li class="tab-item" data-id="atsuko"><a href="#" onclick="switchTab('atsuko')">atsuko from angela</a></li>
