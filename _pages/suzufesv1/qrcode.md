@@ -1,7 +1,6 @@
 ---
 layout: page
 title: QRコード
-sort_order: 2
 ---
 # {{ page.title }}
 ARイラストを見たい方は、こちらを押してください。[「準備／閲覧」]({{ '/suzufesv1/howto' | absolute_url }})
