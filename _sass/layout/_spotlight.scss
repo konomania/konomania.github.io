@@ -30,15 +30,14 @@
             }
         }
 
-    }
-
-    .content {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-
-        :last-child {
-            margin-bottom: 0;
+        .content {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+    
+            :last-child {
+                margin-bottom: 0;
+            }
         }
     }
 }
