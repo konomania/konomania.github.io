@@ -4,9 +4,9 @@ title: QRコード
 sort_order: 2
 ---
 # {{ page.title }}
-ARイラストを見たい方は、「準備／閲覧」を選択してください。
+ARイラストを見たい方は、「準備／閲覧」を選択し、専用カメラを起動してください。
 
-※準備中
+『全員イラスト』または『個別イラスト（６人分）』のQRコードを１つ選択してください。
 
 <section class="tabbed-container">
 <div class="tabs">
