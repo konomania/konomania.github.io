@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ANIMAX MUSIX 2021
-sort_order: 2
 ---
 
 <section class="spotlight" markdown="1">
